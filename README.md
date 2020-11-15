@@ -1,4 +1,4 @@
-#Project Description: This Spring boot project contains 2 REST endpoints:
+#Project Description: This Spring boot project contains 1 REST endpoints:
     1. POST : prints/logs the passed json and return the concatenated name elements as a string  when Centime Microservice(service 1) calls this microservice.
     
 #How run application : 
@@ -8,7 +8,6 @@
 2. Go to project directory and import project or pom.xm in IDE as maven project
 4. Make build(clean install)
 5. Run spring boot app
-7. Open http://localhost in browser 
 
 ## using maven
  1.mvn clean install
@@ -16,5 +15,4 @@
  
 
 # Getting Started
-Application link: 
 Swagger Link: http://localhost:9443/swagger-ui/index.html
